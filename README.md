@@ -2,9 +2,9 @@ simpl
 =====
 An Objective-C iOS rolling block puzzle game.
 
-[Image](https://github.com/aoakenfo/simpl/blob/master/sreenshot1.png)
+[Image](https://github.com/aoakenfo/simpl/blob/master/screenshot1.png
 
-[Image](https://github.com/aoakenfo/simpl/blob/master/sreenshot2.png)
+[Image](https://github.com/aoakenfo/simpl/blob/master/screenshot2.png)
 
 Video of gameplay can be found [here](http://www.conceptualinertia.net/aoakenfo/simpl)
 
